@@ -1,0 +1,141 @@
+body {
+    font-family: barlow;
+
+    font-weight: 400;
+    padding: 30px 100px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-bar {
+    color: black;
+    background-color: lightgrey;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+
+.sec-1 {
+    display: inline-block;
+    width: 50%;
+    margin-top: 100px;
+
+}
+
+.keyboard {
+    float: right;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: 100px;
+
+
+
+
+}
+
+.typemaster {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.type-para {
+    margin-top: -20px;
+    color: hsl(210, 14%, 53%);
+    font-size: 18px;
+
+}
+
+.pre-btn {
+    background-color: hsl(22, 89%, 52%);
+    color: hsl(0, 0%, 100%);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.rel-btn {
+    background-color: white;
+    color: hsl(210, 14%, 53%);
+    border: none;
+    padding-left: 15px;
+    margin-top: 20px;
+
+}
+
+
+
+.div {
+    margin-top: 80px;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.div2 {
+    margin-left: 200px;
+    vertical-align: bottom;
+    margin-top: 60px;
+}
+
+.phone.glass {
+    align-items: stretch;
+    margin-top: 700px;
+
+
+
+
+}
+
+.phone {
+    width: 200px;
+    filter: invert(30%) sepia(13%) saturate(3207%) hue-rotate(351deg) brightness(95%) contrast(80%);
+    border-radius: 10px;
+
+}
+
+.glass {
+    width: 348px;
+    height: auto;
+    border-radius: 10px;
+
+
+
+
+
+
+
+}
+
+.mech {
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.mech-para {
+    color: lightslategrey;
+}
+
+footer {
+    display: flex;
+
+    padding-top: 100px;
+}
+
+.img {
+    background-color: hsl(22, 89%, 52%);
+    padding: 10px;
+    border-radius: 6px;
+}
+
+h1 {
+    font-weight: bold;
+
+}
